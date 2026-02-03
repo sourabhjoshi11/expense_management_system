@@ -7,7 +7,7 @@ import os
 #  orm automatically convert object operation or queries into sql statement 
   #session maker interact with db ,declarative base defines how our data looks like and how it will be going to map with database
 
-database_url='postgresql://postgres:1234@db:5432/postgres'
+database_url='postgresql://postgres:1234@localhost:5432/my_db'
 
 DB_URL = os.getenv("DATABASE_URL", database_url)
 
