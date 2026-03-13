@@ -33,5 +33,5 @@ def approve_expense(
     db.commit()
     db.refresh(expense_request)
 
-    return "work done"
+    return {"message":"work done"}
 

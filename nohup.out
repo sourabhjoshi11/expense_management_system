@@ -1,0 +1,176 @@
+Starting MCP inspector...
+⚙️ Proxy server listening on localhost:5080
+🔑 Session token: cb5f3dffa0652efd51e357a2a5768627203d1b7ccf354eb6a1f530f6917eb231
+   Use this token to authenticate requests or set DANGEROUSLY_OMIT_AUTH=true to disable auth
+
+🚀 MCP Inspector is up and running at:
+   http://localhost:9080/?MCP_PROXY_PORT=5080&MCP_PROXY_AUTH_TOKEN=cb5f3dffa0652efd51e357a2a5768627203d1b7ccf354eb6a1f530f6917eb231
+
+🌐 Opening browser...
+New StreamableHttp connection request
+Query parameters: {"url":"http://localhost:3001/sse","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: 19ecac8d-3704-497d-bada-44fcca3c871c
+Error from MCP server: FetchError: request to http://localhost:3001/sse failed, reason: connect ECONNREFUSED 127.0.0.1:3001
+    at ClientRequest.<anonymous> (file:///home/my/.npm/_npx/5a9d879542beca3a/node_modules/node-fetch/src/index.js:108:11)
+    at ClientRequest.emit (node:events:520:35)
+    at emitErrorEvent (node:_http_client:108:11)
+    at Socket.socketErrorListener (node:_http_client:575:5)
+    at Socket.emit (node:events:508:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  erroredSysCall: 'connect'
+}
+New StreamableHttp connection request
+Query parameters: {"url":"http://localhost:3001/sse","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: 5a8acc04-7054-4cfe-91dc-a6e673727866
+Error from MCP server: FetchError: request to http://localhost:3001/sse failed, reason: connect ECONNREFUSED 127.0.0.1:3001
+    at ClientRequest.<anonymous> (file:///home/my/.npm/_npx/5a9d879542beca3a/node_modules/node-fetch/src/index.js:108:11)
+    at ClientRequest.emit (node:events:520:35)
+    at emitErrorEvent (node:_http_client:108:11)
+    at Socket.socketErrorListener (node:_http_client:575:5)
+    at Socket.emit (node:events:508:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  erroredSysCall: 'connect'
+}
+New StreamableHttp connection request
+Query parameters: {"url":"http://localhost:3001/sse","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: cbe9b3c0-bb1a-4892-b783-2fcb0d067993
+Error from MCP server: FetchError: request to http://localhost:3001/sse failed, reason: connect ECONNREFUSED 127.0.0.1:3001
+    at ClientRequest.<anonymous> (file:///home/my/.npm/_npx/5a9d879542beca3a/node_modules/node-fetch/src/index.js:108:11)
+    at ClientRequest.emit (node:events:520:35)
+    at emitErrorEvent (node:_http_client:108:11)
+    at Socket.socketErrorListener (node:_http_client:575:5)
+    at Socket.emit (node:events:508:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  erroredSysCall: 'connect'
+}
+New StreamableHttp connection request
+Query parameters: {"url":"http://localhost:3001/sse","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: 2f894d54-dbc3-4906-af46-5c5cb62f018e
+Error from MCP server: FetchError: request to http://localhost:3001/sse failed, reason: connect ECONNREFUSED 127.0.0.1:3001
+    at ClientRequest.<anonymous> (file:///home/my/.npm/_npx/5a9d879542beca3a/node_modules/node-fetch/src/index.js:108:11)
+    at ClientRequest.emit (node:events:520:35)
+    at emitErrorEvent (node:_http_client:108:11)
+    at Socket.socketErrorListener (node:_http_client:575:5)
+    at Socket.emit (node:events:508:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  erroredSysCall: 'connect'
+}
+New StreamableHttp connection request
+Query parameters: {"url":"http://localhost:3001/sse","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: c154b3e7-67dd-4cec-af4f-6bc77d995a9a
+Error from MCP server: FetchError: request to http://localhost:3001/sse failed, reason: connect ECONNREFUSED 127.0.0.1:3001
+    at ClientRequest.<anonymous> (file:///home/my/.npm/_npx/5a9d879542beca3a/node_modules/node-fetch/src/index.js:108:11)
+    at ClientRequest.emit (node:events:520:35)
+    at emitErrorEvent (node:_http_client:108:11)
+    at Socket.socketErrorListener (node:_http_client:575:5)
+    at Socket.emit (node:events:508:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  erroredSysCall: 'connect'
+}
+New StreamableHttp connection request
+Query parameters: {"url":"http://localhost:3001/sse","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: 852fac98-19f5-459e-b06c-3ed4e9f35196
+Error from MCP server: FetchError: request to http://localhost:3001/sse failed, reason: connect ECONNREFUSED 127.0.0.1:3001
+    at ClientRequest.<anonymous> (file:///home/my/.npm/_npx/5a9d879542beca3a/node_modules/node-fetch/src/index.js:108:11)
+    at ClientRequest.emit (node:events:520:35)
+    at emitErrorEvent (node:_http_client:108:11)
+    at Socket.socketErrorListener (node:_http_client:575:5)
+    at Socket.emit (node:events:508:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  erroredSysCall: 'connect'
+}
+New StreamableHttp connection request
+Query parameters: {"url":"http://localhost:3001/sse","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: 9fe5a450-6b51-4c83-979b-e32b8bd91f41
+Error from MCP server: FetchError: request to http://localhost:3001/sse failed, reason: connect ECONNREFUSED 127.0.0.1:3001
+    at ClientRequest.<anonymous> (file:///home/my/.npm/_npx/5a9d879542beca3a/node_modules/node-fetch/src/index.js:108:11)
+    at ClientRequest.emit (node:events:520:35)
+    at emitErrorEvent (node:_http_client:108:11)
+    at Socket.socketErrorListener (node:_http_client:575:5)
+    at Socket.emit (node:events:508:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  erroredSysCall: 'connect'
+}
+New StreamableHttp connection request
+Query parameters: {"url":"http://localhost:3001/sse","transportType":"streamable-http"}
+Created StreamableHttp client transport
+Client <-> Proxy  sessionId: 0493323f-9242-49c0-80a2-e4a8d2026bbd
+Error from MCP server: FetchError: request to http://localhost:3001/sse failed, reason: connect ECONNREFUSED 127.0.0.1:3001
+    at ClientRequest.<anonymous> (file:///home/my/.npm/_npx/5a9d879542beca3a/node_modules/node-fetch/src/index.js:108:11)
+    at ClientRequest.emit (node:events:520:35)
+    at emitErrorEvent (node:_http_client:108:11)
+    at Socket.socketErrorListener (node:_http_client:575:5)
+    at Socket.emit (node:events:508:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21) {
+  type: 'system',
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  erroredSysCall: 'connect'
+}
+Error: 
+🚀 MCP Inspector is up and running at:
+   http://localhost:9080/?MCP_PROXY_PORT=5080&MCP_PROXY_AUTH_TOKEN=cb5f3dffa0652efd51e357a2a5768627203d1b7ccf354eb6a1f530f6917eb231
+
+🌐 Opening browser...
+
+Failed with exit code: null
+    at Object.error (/home/my/.npm/_npx/5a9d879542beca3a/node_modules/spawn-rx/lib/src/index.js:314:27)
+    at ConsumerObserver.error (/home/my/.npm/_npx/5a9d879542beca3a/node_modules/rxjs/dist/cjs/internal/Subscriber.js:124:33)
+    at Subscriber._error (/home/my/.npm/_npx/5a9d879542beca3a/node_modules/rxjs/dist/cjs/internal/Subscriber.js:84:30)
+    at Subscriber.error (/home/my/.npm/_npx/5a9d879542beca3a/node_modules/rxjs/dist/cjs/internal/Subscriber.js:60:18)
+    at Subscriber._error (/home/my/.npm/_npx/5a9d879542beca3a/node_modules/rxjs/dist/cjs/internal/Subscriber.js:84:30)
+    at Subscriber.error (/home/my/.npm/_npx/5a9d879542beca3a/node_modules/rxjs/dist/cjs/internal/Subscriber.js:60:18)
+    at Object.next (/home/my/.npm/_npx/5a9d879542beca3a/node_modules/spawn-rx/lib/src/index.js:286:26)
+    at ConsumerObserver.next (/home/my/.npm/_npx/5a9d879542beca3a/node_modules/rxjs/dist/cjs/internal/Subscriber.js:113:33)
+    at Subscriber._next (/home/my/.npm/_npx/5a9d879542beca3a/node_modules/rxjs/dist/cjs/internal/Subscriber.js:80:26)
+    at Subscriber.next (/home/my/.npm/_npx/5a9d879542beca3a/node_modules/rxjs/dist/cjs/internal/Subscriber.js:51:18) {
+  exitCode: null,
+  code: null
+}
+
+Failed with exit code: 1
+[02/04/26 19:09:00] ERROR    Dev server failed                        cli.py:276

@@ -22,7 +22,7 @@ class Login(BaseModel):
 class Expense(BaseModel):
     expense_amt:float
     expense_category:str
-    expense_receipt:str
+    # expense_receipt:str
     
 class ExpenseUpdate(BaseModel):
     status:str
